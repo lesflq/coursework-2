@@ -1,4 +1,0 @@
-D:/Study/3 курс 1 семестр/SysProg/SecondTask/calculator/build/CMakeFiles/calc.dir
-D:/Study/3 курс 1 семестр/SysProg/SecondTask/calculator/build/CMakeFiles/calculator.dir
-D:/Study/3 курс 1 семестр/SysProg/SecondTask/calculator/build/CMakeFiles/edit_cache.dir
-D:/Study/3 курс 1 семестр/SysProg/SecondTask/calculator/build/CMakeFiles/rebuild_cache.dir
